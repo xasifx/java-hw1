@@ -17,6 +17,6 @@ public class AreaTrapezium {
 
         System.out.println("Area of Trapezium = " + area);
 
-        sc.close();
+    
     }
 }
