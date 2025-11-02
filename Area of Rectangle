@@ -13,6 +13,6 @@ public class AreaRectangle {
         double area = length * width;
         System.out.println("Area of Rectangle = " + area);
 
-        sc.close();
+    
     }
 }
